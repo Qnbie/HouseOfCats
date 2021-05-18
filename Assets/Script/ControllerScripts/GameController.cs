@@ -20,7 +20,7 @@ namespace Script.ControllerScripts
 
         
         private bool _gameOver = false;
-        private float _playerScore;
+        private float _playerScore = 0;
         private PlayerController _playerController;
         private List<EnemyController> _enemyControllers;
         

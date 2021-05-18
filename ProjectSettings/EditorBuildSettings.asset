@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HouseOfCats.unity
+    path: Assets/House of Cats.unity
     guid: 7bc1dac9eb840764d822d9812297b48e
   m_configObjects: {}
